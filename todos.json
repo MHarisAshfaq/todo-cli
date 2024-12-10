@@ -1,0 +1,26 @@
+[
+   {
+      "Title": "First todo",
+      "Completed": true,
+      "CreatedAt": "2024-12-09T19:42:01.518205+05:00",
+      "CompletedAt": "2024-12-09T19:42:01.51844+05:00"
+   },
+   {
+      "Title": "learn go",
+      "Completed": false,
+      "CreatedAt": "2024-12-09T19:42:01.518205+05:00",
+      "CompletedAt": null
+   },
+   {
+      "Title": "learn docker and kubernetes",
+      "Completed": false,
+      "CreatedAt": "2024-12-09T19:42:01.518206+05:00",
+      "CompletedAt": null
+   },
+   {
+      "Title": "morning walk",
+      "Completed": false,
+      "CreatedAt": "2024-12-10T11:59:31.705475+05:00",
+      "CompletedAt": null
+   }
+]
